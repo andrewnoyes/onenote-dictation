@@ -8,3 +8,14 @@ C:\_Programming\C# Projects\OneNote Toolz\OneNote Dictation\OneNoteDictationTool
 C:\_Programming\C# Projects\OneNote Toolz\OneNote Dictation\OneNoteDictationTool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.exe
 C:\_Programming\C# Projects\OneNote Toolz\OneNote Dictation\OneNoteDictationTool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.pdb
 C:\_Programming\C# Projects\OneNote Toolz\OneNote Dictation\OneNoteDictationTool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.CommandForm.resources
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\bin\Debug\OneNoteDictationTool.exe.config
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.exe
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.pdb
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\bin\Debug\OneNoteDictationTool.exe
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\bin\Debug\OneNoteDictationTool.pdb
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.csprojResolveAssemblyReference.cache
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.CommandForm.resources
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.FormMain.resources
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.LogForm.resources
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.Properties.Resources.resources
+C:\_Programming\_Repos\windows-dictation-tool\OneNoteDictationTool\obj\Debug\OneNoteDictationTool.csproj.GenerateResource.Cache
